@@ -1,0 +1,3 @@
+include ':imagepickerModlibrary'
+include ':app'
+rootProject.name = "imagePickerModule"
